@@ -32,6 +32,6 @@ https://github.com/tensorflow/models/tree/master/research/slim
  --end_learning_rate 1e-05
  --learning_rate_decay_factor 0.94
  --checkpoint_exclude_scopes resnet_v2_101/logits,resnet_v2_101/SpatialSqueeze,resnet_v2_101/predictions
- --preprocessing_name cmp
+ --preprocessing_name resnet_v2_101
 ```
 
