@@ -9,7 +9,7 @@ https://github.com/tensorflow/models/tree/master/research/slim
 ### Training a model from scratch.
 
 ```
-!python ../slim/train_image_classifier.py
+python ../slim/train_image_classifier.py
  --train_dir save
  --dataset_dir tfrecords
  --dataset_split_name train
